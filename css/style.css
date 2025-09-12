@@ -6,7 +6,7 @@
 
 body{
     text-align: center;
-    background-color: rgb(136, 136, 136);
+    background-color: rgb(158, 158, 158);
     font-size: 1.3rem;
 }
 
@@ -18,7 +18,7 @@ header{
 }
 
 header a{
-    font-size: 1.2rem;
+    font-size: 1.1rem;
 }
 
 nav{
