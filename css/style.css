@@ -7,14 +7,23 @@
 body{
     text-align: center;
     background-color: rgb(136, 136, 136);
+    font-size: 1.3rem;
 }
 
 header{
     background-color: white;
+    width: 390px;
+    height: 50px
+    ;
+}
+
+header a{
+    font-size: 1.2rem;
 }
 
 nav{
  color: white;
+
 }
 
 a{
@@ -59,6 +68,20 @@ a:hover{
 }
 
 .modelos_ur a{
+    color: white;
+    text-decoration: underline;
+}
+
+footer{
+    background-color: white;
+}
+
+.video_robo a{
+    color: white;
+    text-decoration: underline;
+}
+
+.endereco_robots a{
     color: white;
     text-decoration: underline;
 }
