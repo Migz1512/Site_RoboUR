@@ -1,24 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
 body{
     text-align: center;
     background-color: rgb(136, 136, 136);
 }
 
+header{
+    background-color: white;
+}
+
 nav{
-    text-decoration: none;
+ color: white;
 }
 
 a{
     text-decoration: none;
+    color: grey;
+    padding: 10px;
 }
 
 a:hover{
     padding: 0px 4px;
     border-radius: 8px;
-    background-color: rgb(189, 189, 189);
+    background-color: rgb(190, 190, 190);
 }
 
 .UR{
     color: black;
     text-decoration: underline;
 
+}
+
+.logo_UR a{
+    color: white;
+    text-decoration: underline;
+}
+
+.logo_UR img{
+    border-radius: 8px;
+}
+
+.robo_colaborativo a{
+    color: white;
+    text-decoration: underline;
+}
+
+.robo_ur a{
+    color: white;
+    text-decoration: underline;
+}
+
+.modelos_ur img{
+    border-radius: 8px;
+}
+
+.modelos_ur a{
+    color: white;
+    text-decoration: underline;
 }
