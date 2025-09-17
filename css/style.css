@@ -86,3 +86,15 @@ footer{
     color: white;
     text-decoration: underline;
 }
+
+.endereco_robots iframe{
+    border-radius: 1rem;
+}   
+
+.video_robo iframe{
+    border-radius: 1rem;
+}
+
+.robo_colaborativo img{
+    border-radius: 1rem;
+}
